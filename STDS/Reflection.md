@@ -40,43 +40,43 @@ This document reflects on my learning journey through four key data analytics ta
 
 # 🚧 What Was Challenging
 
-# Technical Challenges
-
-# Excel
-
-     Managing large datasets without performance degradation
-            
-     Creating dynamic ranges for expanding data
-            
-     Balancing aesthetics with functionality in dashboard design
-
-# Power BI
-            
-     Debugging complex DAX formulas with multiple dependencies
-            
-     Handling incremental data refresh scenarios
-
-# Tableau
-            
-     Understanding context filters and their impact on LOD expressions
-            
-     Creating responsive designs for different screen sizes
-
-# SQL Server
-
-     Optimizing queries with multiple nested subqueries
-            
-     Debugging stored procedures with complex business logic
-
-# Conceptual Challenges #
-
-     Translating business requirements into technical specifications
-            
-     Choosing the right visualization for each data story
-            
-     Balancing detail with clarity in dashboard design
-            
-     Understanding when to use each tool (Excel vs. Power BI vs. Tableau)
+      # Technical Challenges
+      
+      # Excel
+      
+           Managing large datasets without performance degradation
+                  
+           Creating dynamic ranges for expanding data
+                  
+           Balancing aesthetics with functionality in dashboard design
+      
+      # Power BI
+                  
+           Debugging complex DAX formulas with multiple dependencies
+                  
+           Handling incremental data refresh scenarios
+      
+      # Tableau
+                  
+           Understanding context filters and their impact on LOD expressions
+                  
+           Creating responsive designs for different screen sizes
+      
+      # SQL Server
+      
+           Optimizing queries with multiple nested subqueries
+                  
+           Debugging stored procedures with complex business logic
+      
+      # Conceptual Challenges #
+      
+           Translating business requirements into technical specifications
+                  
+           Choosing the right visualization for each data story
+                  
+           Balancing detail with clarity in dashboard design
+                  
+           Understanding when to use each tool (Excel vs. Power BI vs. Tableau)
 
 # 🎯 What I Improved From Previous Tasks
 
