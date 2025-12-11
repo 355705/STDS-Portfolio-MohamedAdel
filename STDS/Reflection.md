@@ -25,18 +25,18 @@ This document reflects on my learning journey through four key data analytics ta
       Performance Optimization: Learned about query folding and data model optimization
 
 3. Tableau
-        Level of Detail (LOD) Expressions: Created fixed, include, and exclude calculations
+     Level of Detail (LOD) Expressions: Created fixed, include, and exclude calculations
       
-        Parameter Controls: Built interactive dashboards with user-driven parameters
+     Parameter Controls: Built interactive dashboards with user-driven parameters
       
-        Story Points: Created narrative-driven data stories
+     Story Points: Created narrative-driven data stories
 
 4. SQL Server Queries
-        Complex Joins: Mastered various join types (INNER, LEFT, RIGHT, FULL, CROSS)
+     Complex Joins: Mastered various join types (INNER, LEFT, RIGHT, FULL, CROSS)
       
-        Window Functions: Implemented ROW_NUMBER(), RANK(), and running totals
-      
-        CTEs & Subqueries: Optimized complex queries using Common Table Expressions
+     Window Functions: Implemented ROW_NUMBER(), RANK(), and running totals
+
+     CTEs & Subqueries: Optimized complex queries using Common Table Expressions
 
 # 🚧 What Was Challenging
 
@@ -44,29 +44,29 @@ This document reflects on my learning journey through four key data analytics ta
 
 # Excel
 
-            Managing large datasets without performance degradation
+     Managing large datasets without performance degradation
             
-            Creating dynamic ranges for expanding data
+     Creating dynamic ranges for expanding data
             
-            Balancing aesthetics with functionality in dashboard design
+     Balancing aesthetics with functionality in dashboard design
 
 # Power BI
             
-            Debugging complex DAX formulas with multiple dependencies
+     Debugging complex DAX formulas with multiple dependencies
             
-            Handling incremental data refresh scenarios
+     Handling incremental data refresh scenarios
 
 # Tableau
             
-            Understanding context filters and their impact on LOD expressions
+     Understanding context filters and their impact on LOD expressions
             
-            Creating responsive designs for different screen sizes
+     Creating responsive designs for different screen sizes
 
 # SQL Server
 
-            Optimizing queries with multiple nested subqueries
+     Optimizing queries with multiple nested subqueries
             
-            Debugging stored procedures with complex business logic
+     Debugging stored procedures with complex business logic
 
 # Conceptual Challenges #
 
