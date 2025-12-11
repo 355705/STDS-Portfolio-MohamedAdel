@@ -1,0 +1,1 @@
+SELECT (SUM(LineTotal)/(SUM(OrderQty))) AS AVGSpentMoney FROM Sales.SalesOrderDetail;
