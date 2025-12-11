@@ -1,10 +1,10 @@
 📊 Data Analytics Learning Journey - Reflection
 
-📌 Overview
+# 📌 Overview
 
 This document reflects on my learning journey through four key data analytics tasks: Excel Dashboard, Power BI Report, Tableau Visualization, and SQL Server Queries. Each project presented unique challenges and learning opportunities that contributed to my growth as a data analyst.
 
-📈 What I Learned
+# 📈 What I Learned
 
 1. Excel Dashboard
   Data Modeling: Created relationships between multiple tables using Excel's Data Model feature
@@ -38,9 +38,9 @@ This document reflects on my learning journey through four key data analytics ta
 
   CTEs & Subqueries: Optimized complex queries using Common Table Expressions
 
-🚧 What Was Challenging
+# 🚧 What Was Challenging
 
-<span style="color:red">Technical Challenges</span>
+# Technical Challenges
 
 # Excel Dashboard
 
@@ -78,53 +78,53 @@ Balancing detail with clarity in dashboard design
 
 Understanding when to use each tool (Excel vs. Power BI vs. Tableau)
 
-🎯 What I Improved From Previous Tasks
+# 🎯 What I Improved From Previous Tasks
 
-Technical Skills Enhancement
+# Technical Skills Enhancement
 
 Data Preparation
-
-Before: Manual data cleaning in Excel
-
-Now: Automated ETL pipelines using Power Query/SQL
-
-Improvement: 70% reduction in data preparation time
+  
+  Before: Manual data cleaning in Excel
+  
+  Now: Automated ETL pipelines using Power Query/SQL
+  
+  Improvement: 70% reduction in data preparation time
 
 Dashboard Interactivity
 
-Before: Static reports with limited user interaction
-
-Now: Dynamic dashboards with drill-through, tooltips, and parameter controls
-
-Improvement: Created more engaging and user-friendly analytics experiences
+  Before: Static reports with limited user interaction
+  
+  Now: Dynamic dashboards with drill-through, tooltips, and parameter controls
+  
+  Improvement: Created more engaging and user-friendly analytics experiences
 
 Query Optimization
 
-Before: Basic SELECT queries with simple WHERE clauses
-
-Now: Complex analytical queries with window functions and optimized joins
-
-Improvement: Reduced query execution time by 60% on average
+  Before: Basic SELECT queries with simple WHERE clauses
+  
+  Now: Complex analytical queries with window functions and optimized joins
+  
+  Improvement: Reduced query execution time by 60% on average
 
 Visual Storytelling
 
-Before: Focused on displaying all available data
+  Before: Focused on displaying all available data
+  
+  Now: Curated data stories with clear narratives and actionable insights
+  
+  Improvement: Increased stakeholder engagement and decision-making speed
+  
+  Developed guidelines for when to use each analytical tool
 
-Now: Curated data stories with clear narratives and actionable insights
+  Created cost-benefit analyses for different implementation approaches
+  
+  Scalability Planning
+  
+  Designed solutions with future growth in mind
+  
+  Implemented modular architectures for easier maintenance
 
-Improvement: Increased stakeholder engagement and decision-making speed
-
-Developed guidelines for when to use each analytical tool
-
-Created cost-benefit analyses for different implementation approaches
-
-Scalability Planning
-
-Designed solutions with future growth in mind
-
-Implemented modular architectures for easier maintenance
-
-🔄 Key Takeaways
+# 🔄 Key Takeaways
 Cross-Tool Synergies
 SQL + Visualization Tools: Using SQL for heavy data processing before visualization
 
@@ -143,7 +143,7 @@ Build with maintenance in mind
 
 Document as you develop, not as an afterthought
 
-🎓 Lessons for Future Projects
+# 🎓 Lessons for Future Projects
 Start Simple: Begin with basic requirements and add complexity gradually
 
 User Feedback Loop: Involve stakeholders early and often
@@ -154,7 +154,7 @@ Continuous Learning: Each project reveals new features and techniques to explore
 
 Automate Routine Tasks: Invest time in automation to save time in the long run
 
-📊 Success Metrics
+# 📊 Success Metrics
 Dashboard Adoption: 85% of target users actively using created dashboards
 
 Query Performance: Average query time reduced from 45s to 18s
