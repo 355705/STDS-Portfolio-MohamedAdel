@@ -25,18 +25,18 @@ This document reflects on my learning journey through four key data analytics ta
       Performance Optimization: Learned about query folding and data model optimization
 
 3. Tableau
-  Level of Detail (LOD) Expressions: Created fixed, include, and exclude calculations
-
-  Parameter Controls: Built interactive dashboards with user-driven parameters
-
-  Story Points: Created narrative-driven data stories
+        Level of Detail (LOD) Expressions: Created fixed, include, and exclude calculations
+      
+        Parameter Controls: Built interactive dashboards with user-driven parameters
+      
+        Story Points: Created narrative-driven data stories
 
 4. SQL Server Queries
-  Complex Joins: Mastered various join types (INNER, LEFT, RIGHT, FULL, CROSS)
-
-  Window Functions: Implemented ROW_NUMBER(), RANK(), and running totals
-
-  CTEs & Subqueries: Optimized complex queries using Common Table Expressions
+        Complex Joins: Mastered various join types (INNER, LEFT, RIGHT, FULL, CROSS)
+      
+        Window Functions: Implemented ROW_NUMBER(), RANK(), and running totals
+      
+        CTEs & Subqueries: Optimized complex queries using Common Table Expressions
 
 # 🚧 What Was Challenging
 
@@ -44,39 +44,39 @@ This document reflects on my learning journey through four key data analytics ta
 
 # Excel
 
-Managing large datasets without performance degradation
-
-Creating dynamic ranges for expanding data
-
-Balancing aesthetics with functionality in dashboard design
+            Managing large datasets without performance degradation
+            
+            Creating dynamic ranges for expanding data
+            
+            Balancing aesthetics with functionality in dashboard design
 
 # Power BI
-
-Debugging complex DAX formulas with multiple dependencies
-
-Handling incremental data refresh scenarios
+            
+            Debugging complex DAX formulas with multiple dependencies
+            
+            Handling incremental data refresh scenarios
 
 # Tableau
-
-Understanding context filters and their impact on LOD expressions
-
-Creating responsive designs for different screen sizes
+            
+            Understanding context filters and their impact on LOD expressions
+            
+            Creating responsive designs for different screen sizes
 
 # SQL Server
 
-Optimizing queries with multiple nested subqueries
-
-Debugging stored procedures with complex business logic
+            Optimizing queries with multiple nested subqueries
+            
+            Debugging stored procedures with complex business logic
 
 # Conceptual Challenges #
 
-Translating business requirements into technical specifications
-
-Choosing the right visualization for each data story
-
-Balancing detail with clarity in dashboard design
-
-Understanding when to use each tool (Excel vs. Power BI vs. Tableau)
+            Translating business requirements into technical specifications
+            
+            Choosing the right visualization for each data story
+            
+            Balancing detail with clarity in dashboard design
+            
+            Understanding when to use each tool (Excel vs. Power BI vs. Tableau)
 
 # 🎯 What I Improved From Previous Tasks
 
@@ -100,29 +100,20 @@ Understanding when to use each tool (Excel vs. Power BI vs. Tableau)
 
 # Query Optimization
 
-  Before: Basic SELECT queries with simple WHERE clauses
-  
-  Now: Complex analytical queries with window functions and optimized joins
-  
-  Improvement: Reduced query execution time by 60% on average
+              Before: Basic SELECT queries with simple WHERE clauses
+              
+              Now: Complex analytical queries with window functions and optimized joins
+              
+              Improvement: Reduced query execution time by 60% on average
 
 # Visual Storytelling
 
-  Before: Focused on displaying all available data
-  
-  Now: Curated data stories with clear narratives and actionable insights
-  
-  Improvement: Increased stakeholder engagement and decision-making speed
-  
-  Developed guidelines for when to use each analytical tool
-
-  Created cost-benefit analyses for different implementation approaches
-  
-  Scalability Planning
-  
-  Designed solutions with future growth in mind
-  
-  Implemented modular architectures for easier maintenance
+              Before: Focused on displaying all available data
+              
+              Now: Curated data stories with clear narratives and actionable insights
+              
+              Improvement: Increased stakeholder engagement and decision-making speed
+              
 
 # 🔄 Key Takeaways
 Cross-Tool Synergies
@@ -142,6 +133,16 @@ Design for the end-user, not for technical elegance
 
 Build with maintenance in mind
 
+Developed guidelines for when to use each analytical tool
+            
+Created cost-benefit analyses for different implementation approaches
+  
+Scalability Planning
+  
+Designed solutions with future growth in mind
+  
+Implemented modular architectures for easier maintenance
+
 Document as you develop, not as an afterthought
 
 # 🎓 Lessons for Future Projects
@@ -156,13 +157,13 @@ Continuous Learning: Each project reveals new features and techniques to explore
 Automate Routine Tasks: Invest time in automation to save time in the long run
 
 # 📊 Success Metrics
-Dashboard Adoption: 85% of target users actively using created dashboards
-
-Query Performance: Average query time reduced from 45s to 18s
-
-Development Speed: 40% faster dashboard creation on subsequent projects
-
-Error Reduction: 75% decrease in data-related errors reported by users
+            Dashboard Adoption: 85% of target users actively using created dashboards
+            
+            Query Performance: Average query time reduced from 45s to 18s
+            
+            Development Speed: 40% faster dashboard creation on subsequent projects
+            
+            Error Reduction: 75% decrease in data-related errors reported by users
 
 
 # --"Data is just a collection of numbers until you give it context and purpose. The real skill is turning data into decisions."-- # 
