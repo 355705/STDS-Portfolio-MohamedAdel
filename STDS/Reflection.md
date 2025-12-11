@@ -159,7 +159,7 @@ Automate Routine Tasks: Invest time in automation to save time in the long run
 # 📊 Success Metrics
  Dashboard Adoption: 85% of target users actively using created dashboards
             
- Query Performance: Average query time reduced from 45s to 18s
+ Query Performance: Average query time reduced
             
  Development Speed: 40% faster dashboard creation on subsequent projects
             
