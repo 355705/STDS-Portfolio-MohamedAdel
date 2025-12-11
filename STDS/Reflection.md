@@ -70,13 +70,13 @@ This document reflects on my learning journey through four key data analytics ta
 
 # Conceptual Challenges #
 
-            Translating business requirements into technical specifications
+     Translating business requirements into technical specifications
             
-            Choosing the right visualization for each data story
+     Choosing the right visualization for each data story
             
-            Balancing detail with clarity in dashboard design
+     Balancing detail with clarity in dashboard design
             
-            Understanding when to use each tool (Excel vs. Power BI vs. Tableau)
+     Understanding when to use each tool (Excel vs. Power BI vs. Tableau)
 
 # 🎯 What I Improved From Previous Tasks
 
@@ -100,19 +100,19 @@ This document reflects on my learning journey through four key data analytics ta
 
 # Query Optimization
 
-              Before: Basic SELECT queries with simple WHERE clauses
+      Before: Basic SELECT queries with simple WHERE clauses
               
-              Now: Complex analytical queries with window functions and optimized joins
+      Now: Complex analytical queries with window functions and optimized joins
               
-              Improvement: Reduced query execution time by 60% on average
+      Improvement: Reduced query execution time by 60% on average
 
 # Visual Storytelling
 
-              Before: Focused on displaying all available data
+      Before: Focused on displaying all available data
               
-              Now: Curated data stories with clear narratives and actionable insights
+      Now: Curated data stories with clear narratives and actionable insights
               
-              Improvement: Increased stakeholder engagement and decision-making speed
+      Improvement: Increased stakeholder engagement and decision-making speed
               
 
 # 🔄 Key Takeaways
@@ -157,13 +157,13 @@ Continuous Learning: Each project reveals new features and techniques to explore
 Automate Routine Tasks: Invest time in automation to save time in the long run
 
 # 📊 Success Metrics
-            Dashboard Adoption: 85% of target users actively using created dashboards
+ Dashboard Adoption: 85% of target users actively using created dashboards
             
-            Query Performance: Average query time reduced from 45s to 18s
+ Query Performance: Average query time reduced from 45s to 18s
             
-            Development Speed: 40% faster dashboard creation on subsequent projects
+ Development Speed: 40% faster dashboard creation on subsequent projects
             
-            Error Reduction: 75% decrease in data-related errors reported by users
+ Error Reduction: 75% decrease in data-related errors reported by users
 
 
 # --"Data is just a collection of numbers until you give it context and purpose. The real skill is turning data into decisions."-- # 
