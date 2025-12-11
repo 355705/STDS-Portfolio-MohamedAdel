@@ -7,42 +7,42 @@ This document reflects on my learning journey through four key data analytics ta
 📈 What I Learned
 
 1. Excel Dashboard
-Data Modeling: Created relationships between multiple tables using Excel's Data Model feature
+  Data Modeling: Created relationships between multiple tables using Excel's Data Model feature
 
-Dynamic Visualizations: Implemented interactive charts using Pivot Charts and slicers
+  Dynamic Visualizations: Implemented interactive charts using Pivot Charts and slicers
 
-Dashboard Design Principles: Learned about visual hierarchy, color theory, and user-friendly layouts
+  Dashboard Design Principles: Learned about visual hierarchy, color theory, and user-friendly layouts
 
-Power Query: Automated data cleaning and transformation processes
+  Power Query: Automated data cleaning and transformation processes
 
 2. Power BI
-DAX Language: Created calculated columns and measures for advanced analytics
+  DAX Language: Created calculated columns and measures for advanced analytics
 
-Data Transformation: Used Power Query Editor for ETL processes
+  Data Transformation: Used Power Query Editor for ETL processes
 
-Custom Visualizations: Explored marketplace visuals beyond standard charts
+  Custom Visualizations: Explored marketplace visuals beyond standard charts
 
-Performance Optimization: Learned about query folding and data model optimization
+  Performance Optimization: Learned about query folding and data model optimization
 
 3. Tableau
-Level of Detail (LOD) Expressions: Created fixed, include, and exclude calculations
+  Level of Detail (LOD) Expressions: Created fixed, include, and exclude calculations
 
-Parameter Controls: Built interactive dashboards with user-driven parameters
+  Parameter Controls: Built interactive dashboards with user-driven parameters
 
-Story Points: Created narrative-driven data stories
+  Story Points: Created narrative-driven data stories
 
 4. SQL Server Queries
-Complex Joins: Mastered various join types (INNER, LEFT, RIGHT, FULL, CROSS)
+  Complex Joins: Mastered various join types (INNER, LEFT, RIGHT, FULL, CROSS)
 
-Window Functions: Implemented ROW_NUMBER(), RANK(), and running totals
+  Window Functions: Implemented ROW_NUMBER(), RANK(), and running totals
 
-CTEs & Subqueries: Optimized complex queries using Common Table Expressions
+  CTEs & Subqueries: Optimized complex queries using Common Table Expressions
 
 🚧 What Was Challenging
 
-Technical Challenges
+# <span style="color:red"> Technical Challenges
 
-Excel Dashboard
+# Excel Dashboard
 
 Managing large datasets without performance degradation
 
@@ -50,25 +50,25 @@ Creating dynamic ranges for expanding data
 
 Balancing aesthetics with functionality in dashboard design
 
-Power BI
+# Power BI
 
 Debugging complex DAX formulas with multiple dependencies
 
 Handling incremental data refresh scenarios
 
-Tableau
+# Tableau
 
 Understanding context filters and their impact on LOD expressions
 
 Creating responsive designs for different screen sizes
 
-SQL Server
+# SQL Server
 
 Optimizing queries with multiple nested subqueries
 
 Debugging stored procedures with complex business logic
 
-Conceptual Challenges
+# Conceptual Challenges #
 
 Translating business requirements into technical specifications
 
