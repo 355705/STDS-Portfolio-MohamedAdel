@@ -7,22 +7,22 @@ This document reflects on my learning journey through four key data analytics ta
 # 📈 What I Learned
 
 1. Excel Dashboard
-  Data Modeling: Created relationships between multiple tables using Excel's Data Model feature
-
-  Dynamic Visualizations: Implemented interactive charts using Pivot Charts and slicers
-
-  Dashboard Design Principles: Learned about visual hierarchy, color theory, and user-friendly layouts
-
-  Power Query: Automated data cleaning and transformation processes
+      Data Modeling: Created relationships between multiple tables using Excel's Data Model feature
+    
+      Dynamic Visualizations: Implemented interactive charts using Pivot Charts and slicers
+    
+      Dashboard Design Principles: Learned about visual hierarchy, color theory, and user-friendly layouts
+    
+      Power Query: Automated data cleaning and transformation processes
 
 2. Power BI
-  DAX Language: Created calculated columns and measures for advanced analytics
-
-  Data Transformation: Used Power Query Editor for ETL processes
-
-  Custom Visualizations: Explored marketplace visuals beyond standard charts
-
-  Performance Optimization: Learned about query folding and data model optimization
+      DAX Language: Created calculated columns and measures for advanced analytics
+    
+      Data Transformation: Used Power Query Editor for ETL processes
+    
+      Custom Visualizations: Explored marketplace visuals beyond standard charts
+    
+      Performance Optimization: Learned about query folding and data model optimization
 
 3. Tableau
   Level of Detail (LOD) Expressions: Created fixed, include, and exclude calculations
@@ -82,23 +82,23 @@ Understanding when to use each tool (Excel vs. Power BI vs. Tableau)
 
 # Technical Skills Enhancement
 
-Data Preparation
+# Data Preparation
   
-  Before: Manual data cleaning in Excel
-  
-  Now: Automated ETL pipelines using Power Query/SQL
-  
-  Improvement: 70% reduction in data preparation time
+      Before: Manual data cleaning in Excel
+      
+      Now: Automated ETL pipelines using Power Query/SQL
+      
+      Improvement: 70% reduction in data preparation time
 
-Dashboard Interactivity
+# Dashboard Interactivity
 
-  Before: Static reports with limited user interaction
-  
-  Now: Dynamic dashboards with drill-through, tooltips, and parameter controls
-  
-  Improvement: Created more engaging and user-friendly analytics experiences
+      Before: Static reports with limited user interaction
+      
+      Now: Dynamic dashboards with drill-through, tooltips, and parameter controls
+      
+      Improvement: Created more engaging and user-friendly analytics experiences
 
-Query Optimization
+# Query Optimization
 
   Before: Basic SELECT queries with simple WHERE clauses
   
@@ -106,7 +106,7 @@ Query Optimization
   
   Improvement: Reduced query execution time by 60% on average
 
-Visual Storytelling
+# Visual Storytelling
 
   Before: Focused on displaying all available data
   
@@ -132,7 +132,8 @@ Excel + Power BI: Leveraging Excel for quick prototypes before Power BI developm
 
 Power BI + Tableau: Understanding each tool's strengths for different use cases
 
-Best Practices Established
+# Best Practices Established
+
 Always start with clear business questions
 
 Validate data at every transformation step
