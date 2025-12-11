@@ -1,4 +1,4 @@
-📊 Data Analytics Learning Journey - Reflection
+## 📊 Data Analytics Learning Journey - Reflection
 
 # 📌 Overview
 
@@ -42,7 +42,7 @@ This document reflects on my learning journey through four key data analytics ta
 
 # Technical Challenges
 
-# Excel Dashboard
+# Excel
 
 Managing large datasets without performance degradation
 
