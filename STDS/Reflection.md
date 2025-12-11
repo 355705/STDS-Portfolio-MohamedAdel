@@ -42,7 +42,7 @@ This document reflects on my learning journey through four key data analytics ta
 
 # Technical Challenges
       
-      # Excel
+# Excel
       
            Managing large datasets without performance degradation
                   
@@ -50,19 +50,19 @@ This document reflects on my learning journey through four key data analytics ta
                   
            Balancing aesthetics with functionality in dashboard design
       
-      # Power BI
+ # Power BI
                   
            Debugging complex DAX formulas with multiple dependencies
                   
            Handling incremental data refresh scenarios
       
-      # Tableau
+# Tableau
                   
            Understanding context filters and their impact on LOD expressions
                   
            Creating responsive designs for different screen sizes
       
-      # SQL Server
+# SQL Server
       
            Optimizing queries with multiple nested subqueries
                   
