@@ -40,7 +40,7 @@ This document reflects on my learning journey through four key data analytics ta
 
 🚧 What Was Challenging
 
-# <span style="color:red"> Technical Challenges
+# <span style="color:red">Technical Challenges</span>
 
 # Excel Dashboard
 
