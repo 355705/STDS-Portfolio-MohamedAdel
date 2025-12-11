@@ -40,7 +40,7 @@ This document reflects on my learning journey through four key data analytics ta
 
 # 🚧 What Was Challenging
 
-      # Technical Challenges
+# Technical Challenges
       
       # Excel
       
@@ -68,7 +68,7 @@ This document reflects on my learning journey through four key data analytics ta
                   
            Debugging stored procedures with complex business logic
       
-      # Conceptual Challenges #
+ # Conceptual Challenges #
       
            Translating business requirements into technical specifications
                   
